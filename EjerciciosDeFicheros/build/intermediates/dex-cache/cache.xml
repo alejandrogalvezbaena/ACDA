@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/usuario/.android/build-cache/cba3f875a362169c6c81b70c119461692847130f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/media/usuario/GALVEZAGB50/Segundo Curso/ACDA/Tema 2/EjerciciosDeFicheros/app/build/intermediates/pre-dexed/debug/classes_a31e0ffda1502f5466e1dddbaf17c8cdab8027ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/usuario/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.4.1.1/c8d96f6fd2bcc179c312da33ee670a71188cc60d/httpclient-4.4.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c8d96f6fd2bcc179c312da33ee670a71188cc60d">
+        <dex dex="/media/usuario/GALVEZAGB50/Segundo Curso/ACDA/Tema 2/EjerciciosDeFicheros/app/build/intermediates/pre-dexed/debug/httpclient-4.4.1.1_b4422e45110ea43c13576c73e1e4a4a4ee5683b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/usuario/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient-android/4.3.5.1/eecbb0b998e77629862a13d957d552b3be58fc4e/httpclient-android-4.3.5.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="eecbb0b998e77629862a13d957d552b3be58fc4e">
+        <dex dex="/media/usuario/GALVEZAGB50/Segundo Curso/ACDA/Tema 2/EjerciciosDeFicheros/app/build/intermediates/pre-dexed/debug/httpclient-android-4.3.5.1_b10e7c58190dfdf2ff249c8d54513327b4935010.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/usuario/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/media/usuario/GALVEZAGB50/Segundo Curso/ACDA/Tema 2/EjerciciosDeFicheros/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_7e5fc4d60ce2e39d6899a624911dd1a4675599bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/usuario/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/media/usuario/GALVEZAGB50/Segundo Curso/ACDA/Tema 2/EjerciciosDeFicheros/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_0cacf4eaa94c9d0079a4d37f81d36447392213f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/usuario/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/media/usuario/GALVEZAGB50/Segundo Curso/ACDA/Tema 2/EjerciciosDeFicheros/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.9_b3173cdd7cf03cd520a7ad5fa4f4504628a853ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/usuario/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/media/usuario/GALVEZAGB50/Segundo Curso/ACDA/Tema 2/EjerciciosDeFicheros/app/build/intermediates/pre-dexed/debug/okio-1.9.0_9bfadefe8397e6c1578757f88aa86d62dbdd628f.jar" />
+    </item>
+
+</items>

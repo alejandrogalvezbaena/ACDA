@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/media/galvezagb50/GALVEZAGB50/Segundo Curso/ACDA/Tema 2/EjerciciosDeFicheros/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/galvezagb50/.android/build-cache/30b563f02bb4053a0d55fafa27ca2d08bb60393b/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/media/galvezagb50/GALVEZAGB50/Segundo Curso/ACDA/Tema 2/EjerciciosDeFicheros/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/galvezagb50/.android/build-cache/30b563f02bb4053a0d55fafa27ca2d08bb60393b/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/media/galvezagb50/GALVEZAGB50/Segundo Curso/ACDA/Tema 2/EjerciciosDeFicheros/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/galvezagb50/.android/build-cache/30b563f02bb4053a0d55fafa27ca2d08bb60393b/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/media/galvezagb50/GALVEZAGB50/Segundo Curso/ACDA/Tema 2/EjerciciosDeFicheros/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/galvezagb50/.android/build-cache/30b563f02bb4053a0d55fafa27ca2d08bb60393b/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]
